@@ -1,0 +1,201 @@
+order_id,customer_id,customer_name,email,order_date,product_category,order_amount,payment_method,country,state,signup_date
+1053,C0141,Alex Lee,alex.lee@mail.com,2023-01-29,electronics,2543,pay pal,united states,california,2023-01-29
+1191,C0012,Maria Garcia,maria.garcia@example.com,2023-01-29,office supplies,2428,cash,united states,california,2023-01-29
+1192,C0061,David Kim,david.kim@mail.com,2023-01-13,fashion,1904,debit card,united states,california,2023-01-13
+1063,C0059,Emily Clark,emily.clark@email.com,2023-01-20,electronics,2623,pay pal,united states,california,2023-01-20
+1093,C0119,David Kim,david.kim@example.com,2023-01-14,home & kitchen,2526,unknown,united states,california,2023-01-14
+1187,C0012,Sarah Johnson,sarah.johnson@email.com,2023-01-06,office supplies,1066,pay pal,united states,california,2023-01-06
+1185,C0128,Linda Wong,linda.wong@example.com,2023-01-06,home & kitchen,1422,pay pal,united states,california,2023-01-06
+1047,C0055,David Kim,david.kim@email.com,2023-01-08,electronics,1895,pay pal,united states,new york,2023-01-08
+1041,C0055,Linda Wong,linda.wong@mail.com,2023-01-20,electronics,832,cash,united states,new york,2023-01-20
+1121,C0084,Sarah Johnson,sarah.johnson@mail.com,2023-01-15,fashion,,unknown,united states,new york,2023-01-15
+1156,C0098,Linda Wong,linda.wong@mail.com,2023-01-27,home & kitchen,2520,unknown,united states,new york,2023-01-27
+1050,C0065,John Doe,unknown,2023-01-31,home & kitchen,767,unknown,united states,new york,2023-01-31
+1038,C0020,Emily Clark,emily.clark@example.com,2023-01-23,electronics,1472,pay pal,united states,texas,2023-01-23
+1051,C0126,Jane Smith,jane.smith@mail.com,2023-01-11,electronics,2891,pay pal,canada,pennsylvania,2023-01-11
+1037,C0066,Linda Wong,linda.wong@example.com,2023-01-31,electronics,1324,pay pal,united states,pennsylvania,2023-01-31
+1079,C0095,David Kim,david.kim@example.com,2023-01-20,electronics,694,pay pal,united states,pennsylvania,2023-01-20
+1088,C0041,Linda Wong,linda.wong@mail.com,2023-01-25,electronics,2634,pay pal,united states,pennsylvania,2023-01-25
+1131,C0020,Emily Clark,emily.clark@example.com,2023-01-17,electronics,1393,debit card,canada,pennsylvania,2023-01-17
+1099,C0062,Jane Smith,jane.smith@example.com,2023-01-25,fashion,1436,unknown,canada,pennsylvania,2023-01-25
+1032,C0074,Maria Garcia,maria.garcia@mail.com,2023-01-18,electronics,1618,debit card,united states,pennsylvania,2023-01-18
+1160,C0103,Linda Wong,linda.wong@mail.com,2023-01-04,home & kitchen,2174,unknown,united states,pennsylvania,2023-01-04
+1159,C0103,Chris Evans,chris.evans@example.com,2023-01-02,electronics,,credit card,canada,california,2023-01-02
+1089,C0039,Linda Wong,unknown,2023-01-30,home & kitchen,2762,credit card,united states,california,2023-01-30
+1119,C0007,Emily Clark,emily.clark@example.com,2023-01-25,electronics,748,credit card,canada,new york,2023-01-25
+1124,C0063,John Doe,john.doe@example.com,2023-01-08,electronics,2988,credit card,canada,new york,2023-01-08
+1162,C0122,Jane Smith,jane.smith@example.com,2023-01-03,electronics,,credit card,canada,new york,2023-01-03
+1070,C0018,Chris Evans,chris.evans@email.com,2023-01-08,electronics,61,credit card,united states,texas,2023-01-08
+1105,C0036,Chris Evans,chris.evans@mail.com,2023-01-21,electronics,2170,credit card,united states,texas,2023-01-21
+1126,C0127,Alex Lee,alex.lee@mail.com,2023-01-01,electronics,1911,credit card,united states,pennsylvania,2023-01-01
+1168,C0126,Alex Lee,unknown,2023-01-26,home & kitchen,,credit card,united states,pennsylvania,2023-01-26
+1135,C0064,Sarah Johnson,sarah.johnson@mail.com,2023-01-07,electronics,2754,debit card,united states,california,2023-01-07
+1137,C0082,Emily Clark,emily.clark@example.com,2023-01-08,electronics,955,pay pal,united states,california,2023-01-08
+1164,C0100,John Doe,john.doe@email.com,2023-01-09,electronics,,debit card,united states,california,2023-01-09
+1128,C0023,Michael Brown,michael.brown@email.com,2023-01-16,electronics,1014,pay pal,united states,texas,2023-01-16
+1116,C0019,Michael Brown,michael.brown@example.com,2023-01-09,electronics,,pay pal,united states,new york,2023-01-09
+1095,C0061,Michael Brown,michael.brown@mail.com,2023-01-08,fashion,,unknown,canada,new york,2023-01-08
+1058,C0037,Michael Brown,michael.brown@email.com,2023-01-26,fashion,2602,pay pal,canada,pennsylvania,2023-01-26
+1013,C0025,Michael Brown,michael.brown@mail.com,2023-01-15,electronics,298,debit card,united states,new york,2023-01-15
+1005,C0054,David Kim,david.kim@example.com,2023-01-03,home & kitchen,,debit card,canada,texas,2023-01-03
+1004,C0148,Maria Garcia,maria.garcia@email.com,2023-01-25,electronics,,unknown,canada,texas,2023-01-25
+1052,C0023,Linda Wong,linda.wong@email.com,2023-01-25,office supplies,,unknown,canada,pennsylvania,2023-01-25
+1097,C0017,Jane Smith,jane.smith@mail.com,2023-01-18,electronics,,debit card,united states,pennsylvania,2023-01-18
+1026,C0051,Linda Wong,linda.wong@example.com,2023-01-20,electronics,,cash,united states,pennsylvania,2023-01-20
+1110,C0142,David Kim,david.kim@mail.com,2023-01-18,electronics,,credit card,united states,california,2023-01-18
+1016,C0139,John Doe,john.doe@email.com,2023-01-19,electronics,2130,credit card,canada,new york,2023-01-19
+1120,C0029,Maria Garcia,unknown,,home & kitchen,2554,credit card,canada,new york,
+1001,C0029,John Doe,john.doe@email.com,2023-01-08,electronics,2468,credit card,united states,new york,2023-01-08
+1028,C0083,Sarah Johnson,sarah.johnson@example.com,2023-01-17,electronics,,credit card,united states,texas,2023-01-17
+1007,C0068,Emily Clark,emily.clark@example.com,2023-01-12,office supplies,242,credit card,canada,pennsylvania,2023-01-12
+1064,C0034,Jane Smith,jane.smith@mail.com,2023-01-14,electronics,,credit card,united states,pennsylvania,2023-01-14
+1009,C0068,Chris Evans,chris.evans@example.com,2023-01-28,home & kitchen,676,pay pal,united states,california,2023-01-28
+1044,C0046,David Kim,unknown,2023-01-18,electronics,1246,unknown,united states,california,2023-01-18
+1186,C0020,Sarah Johnson,sarah.johnson@mail.com,2023-01-16,fashion,694,debit card,canada,california,2023-01-16
+1100,C0017,Sarah Johnson,unknown,2023-01-02,electronics,2161,unknown,united states,california,2023-01-02
+1174,C0056,Michael Brown,michael.brown@mail.com,2023-01-27,fashion,584,pay pal,canada,california,2023-01-27
+1021,C0068,Alex Lee,alex.lee@example.com,2023-01-23,electronics,358,pay pal,united states,new york,2023-01-23
+1200,C0062,David Kim,david.kim@example.com,2023-01-25,office supplies,761,pay pal,canada,texas,2023-01-25
+1067,C0105,Jane Smith,jane.smith@email.com,2023-01-10,home & kitchen,1641,pay pal,canada,pennsylvania,2023-01-10
+1107,C0045,Linda Wong,linda.wong@email.com,2023-01-26,office supplies,,unknown,united states,new york,2023-01-26
+1022,C0079,Linda Wong,linda.wong@email.com,2023-01-12,electronics,2343,debit card,united states,new york,2023-01-12
+1183,C0138,Emily Clark,emily.clark@email.com,2023-01-03,electronics,2247,pay pal,canada,pennsylvania,2023-01-03
+1068,C0107,Jane Smith,jane.smith@example.com,2023-01-31,electronics,939,unknown,united states,texas,2023-01-31
+1104,C0113,John Doe,john.doe@email.com,2023-01-12,office supplies,182,unknown,united states,texas,2023-01-12
+1023,C0086,Michael Brown,michael.brown@example.com,2023-01-08,electronics,208,debit card,united states,texas,2023-01-08
+1012,C0019,John Doe,john.doe@email.com,2023-01-11,home & kitchen,2038,unknown,united states,pennsylvania,2023-01-11
+1029,C0007,John Doe,john.doe@mail.com,2023-01-20,office supplies,2629,cash,united states,pennsylvania,2023-01-20
+1036,C0090,Maria Garcia,maria.garcia@example.com,2023-01-25,home & kitchen,2594,credit card,united states,california,2023-01-25
+1006,C0081,Michael Brown,michael.brown@email.com,2023-01-19,home & kitchen,1670,credit card,united states,new york,2023-01-19
+1165,C0136,Linda Wong,linda.wong@example.com,2023-01-04,fashion,,credit card,canada,new york,2023-01-04
+1184,C0063,Jane Smith,jane.smith@email.com,2023-01-15,home & kitchen,2778,credit card,canada,new york,2023-01-15
+1003,C0024,Michael Brown,unknown,2023-01-20,electronics,561,credit card,united states,texas,2023-01-20
+1129,C0003,David Kim,david.kim@example.com,2023-01-08,office supplies,,credit card,canada,texas,2023-01-08
+1015,C0055,Michael Brown,michael.brown@email.com,2023-01-13,office supplies,2903,credit card,united states,texas,2023-01-13
+1008,C0098,Emily Clark,emily.clark@example.com,2023-01-09,electronics,,credit card,united states,pennsylvania,2023-01-09
+1046,C0064,Jane Smith,jane.smith@mail.com,2023-01-20,office supplies,1267,pay pal,united states,california,2023-01-20
+1048,C0117,Jane Smith,jane.smith@mail.com,2023-01-26,office supplies,2280,pay pal,united states,california,2023-01-26
+1194,C0011,Maria Garcia,maria.garcia@mail.com,2023-01-03,fashion,,pay pal,united states,california,2023-01-03
+1171,C0146,Linda Wong,linda.wong@example.com,2023-01-11,home & kitchen,2395,credit card,united states,california,2023-01-11
+1090,C0085,Alex Lee,alex.lee@example.com,2023-01-22,office supplies,,pay pal,united states,new york,2023-01-22
+1199,C0089,Emily Clark,emily.clark@mail.com,2023-01-01,home & kitchen,289,pay pal,united states,new york,2023-01-01
+1042,C0126,Sarah Johnson,sarah.johnson@email.com,2023-01-08,home & kitchen,1561,pay pal,united states,texas,2023-01-08
+1040,C0083,Maria Garcia,maria.garcia@email.com,2023-01-29,office supplies,2786,pay pal,united states,pennsylvania,2023-01-29
+1086,C0015,Linda Wong,linda.wong@mail.com,2023-01-15,fashion,1225,cash,united states,california,2023-01-15
+1180,C0022,Maria Garcia,maria.garcia@example.com,2023-01-24,home & kitchen,2170,cash,united states,california,2023-01-24
+1166,C0079,Jane Smith,jane.smith@example.com,,electronics,1621,unknown,canada,new york,
+1027,C0033,Maria Garcia,maria.garcia@mail.com,2023-01-24,home & kitchen,,pay pal,united states,pennsylvania,2023-01-24
+1179,C0039,Michael Brown,michael.brown@mail.com,2023-01-28,electronics,,cash,united states,new york,2023-01-28
+1060,C0015,David Kim,david.kim@mail.com,,electronics,373,debit card,united states,new york,
+1073,C0114,Jane Smith,jane.smith@mail.com,2023-01-05,home & kitchen,,cash,united states,texas,2023-01-05
+1144,C0126,Sarah Johnson,sarah.johnson@mail.com,,electronics,2270,credit card,canada,california,
+1075,C0110,Linda Wong,linda.wong@mail.com,,electronics,431,credit card,canada,texas,
+1018,C0077,Sarah Johnson,sarah.johnson@email.com,2023-01-01,electronics,,credit card,united states,california,2023-01-01
+1057,C0122,Michael Brown,michael.brown@example.com,2023-01-27,office supplies,,credit card,united states,california,2023-01-27
+1094,C0073,Jane Smith,jane.smith@mail.com,2023-01-29,office supplies,,credit card,united states,california,2023-01-29
+1134,C0139,Alex Lee,alex.lee@mail.com,,electronics,,unknown,canada,pennsylvania,
+1017,C0064,Emily Clark,emily.clark@example.com,2023-01-22,home & kitchen,,debit card,united states,pennsylvania,2023-01-22
+1062,C0099,Sarah Johnson,sarah.johnson@mail.com,2023-01-19,home & kitchen,,credit card,united states,california,2023-01-19
+1019,C0041,Sarah Johnson,sarah.johnson@example.com,2023-01-10,home & kitchen,,credit card,united states,new york,2023-01-10
+1091,C0058,Alex Lee,alex.lee@mail.com,2023-01-28,fashion,2496,credit card,united states,new york,2023-01-28
+1024,C0007,Maria Garcia,maria.garcia@mail.com,2023-01-31,fashion,,credit card,united states,texas,2023-01-31
+1106,C0074,Sarah Johnson,sarah.johnson@email.com,2023-01-03,office supplies,,credit card,united states,texas,2023-01-03
+1055,C0099,Maria Garcia,maria.garcia@example.com,2023-01-24,home & kitchen,,credit card,united states,texas,2023-01-24
+1176,C0022,Linda Wong,linda.wong@example.com,2023-01-13,home & kitchen,1808,credit card,united states,pennsylvania,2023-01-13
+1025,C0010,Jane Smith,jane.smith@mail.com,,electronics,,credit card,canada,pennsylvania,
+1066,C0150,Michael Brown,michael.brown@mail.com,,electronics,2349,credit card,canada,pennsylvania,
+1101,C0092,John Doe,john.doe@mail.com,2023-01-26,office supplies,,credit card,united states,pennsylvania,2023-01-26
+1145,C0060,Jane Smith,jane.smith@email.com,2023-01-15,electronics,2781,unknown,united states,california,2023-01-15
+1071,C0007,Alex Lee,unknown,2023-01-08,electronics,1136,cash,united states,california,2023-01-08
+1098,C0022,Chris Evans,chris.evans@email.com,2023-01-31,office supplies,2653,pay pal,united states,california,2023-01-31
+1143,C0038,John Doe,john.doe@example.com,2023-01-14,electronics,992,debit card,united states,texas,2023-01-14
+1077,C0058,Jane Smith,jane.smith@example.com,2023-01-25,home & kitchen,1807,pay pal,united states,new york,2023-01-25
+1140,C0021,Sarah Johnson,sarah.johnson@email.com,2023-01-24,electronics,1149,credit card,united states,new york,2023-01-24
+1169,C0147,Jane Smith,jane.smith@example.com,2023-01-27,office supplies,2287,debit card,united states,california,2023-01-27
+1112,C0041,Sarah Johnson,sarah.johnson@mail.com,2023-01-11,fashion,1464,credit card,united states,california,2023-01-11
+1177,C0058,Chris Evans,chris.evans@email.com,2023-01-01,office supplies,2892,debit card,united states,california,2023-01-01
+1033,C0120,Michael Brown,unknown,2023-01-27,office supplies,,cash,united states,new york,2023-01-27
+1080,C0107,David Kim,david.kim@example.com,2023-01-04,home & kitchen,2479,pay pal,united states,new york,2023-01-04
+1081,C0002,Maria Garcia,maria.garcia@email.com,2023-01-25,home & kitchen,81,cash,united states,new york,2023-01-25
+1061,C0066,Sarah Johnson,sarah.johnson@email.com,2023-01-15,electronics,,cash,canada,texas,2023-01-15
+1139,C0058,David Kim,david.kim@email.com,2023-01-26,office supplies,2332,cash,united states,texas,2023-01-26
+1109,C0047,Alex Lee,alex.lee@email.com,2023-01-04,home & kitchen,713,pay pal,united states,texas,2023-01-04
+1092,C0113,John Doe,john.doe@example.com,2023-01-15,office supplies,,unknown,united states,texas,2023-01-15
+1118,C0077,Emily Clark,emily.clark@example.com,2023-01-23,office supplies,118,cash,united states,texas,2023-01-23
+1181,C0029,Maria Garcia,maria.garcia@example.com,2023-01-03,fashion,1634,pay pal,united states,new york,2023-01-03
+1133,C0017,Chris Evans,chris.evans@email.com,2023-01-02,office supplies,2677,pay pal,united states,pennsylvania,2023-01-02
+1102,C0022,Michael Brown,unknown,2023-01-06,fashion,,pay pal,united states,pennsylvania,2023-01-06
+1189,C0078,Emily Clark,emily.clark@mail.com,2023-01-16,home & kitchen,666,debit card,united states,texas,2023-01-16
+1084,C0080,Linda Wong,linda.wong@email.com,2023-01-03,home & kitchen,1488,debit card,united states,new york,2023-01-03
+1188,C0129,John Doe,john.doe@example.com,2023-01-02,office supplies,1206,unknown,united states,texas,2023-01-02
+1069,C0140,Linda Wong,unknown,2023-01-09,office supplies,425,credit card,united states,new york,2023-01-09
+1158,C0075,Jane Smith,jane.smith@mail.com,2023-01-05,home & kitchen,681,cash,united states,pennsylvania,2023-01-05
+1039,C0028,Michael Brown,michael.brown@example.com,2023-01-27,office supplies,,unknown,united states,pennsylvania,2023-01-27
+1074,C0111,Jane Smith,jane.smith@email.com,2023-01-21,office supplies,,unknown,united states,pennsylvania,2023-01-21
+1072,C0093,Chris Evans,chris.evans@mail.com,2023-01-17,home & kitchen,1926,unknown,united states,pennsylvania,2023-01-17
+1155,C0108,David Kim,david.kim@email.com,2023-01-09,office supplies,850,credit card,united states,texas,2023-01-09
+1193,C0116,Sarah Johnson,sarah.johnson@email.com,2023-01-12,office supplies,1312,credit card,united states,texas,2023-01-12
+1178,C0081,Linda Wong,linda.wong@email.com,2023-01-25,electronics,330,credit card,united states,texas,2023-01-25
+1115,C0121,David Kim,david.kim@email.com,2023-01-29,fashion,235,credit card,united states,new york,2023-01-29
+1149,C0140,Emily Clark,emily.clark@email.com,2023-01-30,home & kitchen,2969,credit card,united states,new york,2023-01-30
+1170,C0023,Sarah Johnson,sarah.johnson@email.com,2023-01-26,fashion,2641,credit card,united states,new york,2023-01-26
+1197,C0102,Sarah Johnson,unknown,2023-01-06,home & kitchen,1196,credit card,united states,new york,2023-01-06
+1150,C0100,Chris Evans,chris.evans@example.com,2023-01-05,fashion,450,credit card,united states,pennsylvania,2023-01-05
+1127,C0085,Alex Lee,alex.lee@example.com,2023-01-09,fashion,2375,credit card,united states,pennsylvania,2023-01-09
+1125,C0105,Sarah Johnson,sarah.johnson@email.com,2023-01-10,home & kitchen,292,credit card,united states,pennsylvania,2023-01-10
+1147,C0021,Linda Wong,linda.wong@mail.com,2023-01-08,home & kitchen,2851,credit card,united states,pennsylvania,2023-01-08
+1034,C0112,Sarah Johnson,unknown,,electronics,1964,cash,united states,california,
+1154,C0022,Chris Evans,chris.evans@email.com,,electronics,,unknown,united states,california,
+1148,C0015,John Doe,john.doe@email.com,2023-01-14,electronics,224,unknown,united states,california,2023-01-14
+1142,C0137,Linda Wong,linda.wong@mail.com,,electronics,,pay pal,united states,california,
+1163,C0142,Alex Lee,alex.lee@mail.com,,electronics,2742,cash,united states,new york,
+1153,C0023,Alex Lee,alex.lee@example.com,2023-01-18,electronics,417,pay pal,united states,california,2023-01-18
+1161,C0129,Alex Lee,alex.lee@email.com,,electronics,,pay pal,united states,new york,
+1002,C0144,Maria Garcia,maria.garcia@example.com,,home & kitchen,2909,pay pal,united states,new york,
+1190,C0086,John Doe,john.doe@mail.com,2023-01-24,electronics,1025,unknown,united states,new york,2023-01-24
+1059,C0125,Chris Evans,unknown,2023-01-21,home & kitchen,420,unknown,united states,texas,2023-01-21
+1146,C0004,John Doe,john.doe@mail.com,,electronics,444,debit card,united states,texas,
+1043,C0070,David Kim,david.kim@email.com,2023-01-24,electronics,,pay pal,united states,new york,2023-01-24
+1082,C0059,Chris Evans,chris.evans@example.com,,electronics,1836,pay pal,united states,pennsylvania,
+1195,C0141,Maria Garcia,unknown,2023-01-26,electronics,302,debit card,united states,texas,2023-01-26
+1108,C0080,Michael Brown,michael.brown@example.com,,electronics,563,unknown,united states,texas,
+1035,C0035,Sarah Johnson,sarah.johnson@mail.com,,fashion,1189,pay pal,united states,pennsylvania,
+1078,C0087,Linda Wong,unknown,,electronics,631,debit card,united states,pennsylvania,
+1167,C0074,Alex Lee,alex.lee@mail.com,2023-01-28,electronics,849,unknown,united states,pennsylvania,2023-01-28
+1045,C0123,Sarah Johnson,sarah.johnson@email.com,,electronics,317,credit card,united states,new york,
+1076,C0144,Chris Evans,chris.evans@email.com,,electronics,,credit card,united states,new york,
+1014,C0109,Alex Lee,alex.lee@email.com,,electronics,257,credit card,united states,new york,
+1011,C0052,David Kim,david.kim@example.com,,electronics,,credit card,united states,new york,
+1151,C0070,Sarah Johnson,sarah.johnson@mail.com,,electronics,2756,credit card,united states,texas,
+1030,C0002,Jane Smith,jane.smith@email.com,,electronics,547,credit card,united states,texas,
+1010,C0062,John Doe,john.doe@example.com,,electronics,575,credit card,united states,pennsylvania,
+1096,C0002,Jane Smith,unknown,,electronics,1230,credit card,united states,pennsylvania,
+1087,C0049,Linda Wong,linda.wong@example.com,,electronics,2975,credit card,united states,pennsylvania,
+1020,C0054,Linda Wong,linda.wong@example.com,,home & kitchen,2648,pay pal,united states,california,
+1132,C0015,Sarah Johnson,sarah.johnson@mail.com,,home & kitchen,139,debit card,united states,california,
+1123,C0075,John Doe,john.doe@example.com,,home & kitchen,,pay pal,united states,california,
+1031,C0130,Michael Brown,michael.brown@example.com,,office supplies,,unknown,canada,new york,
+1054,C0058,Jane Smith,jane.smith@email.com,,home & kitchen,1169,unknown,united states,new york,
+1196,C0022,Emily Clark,emily.clark@email.com,,electronics,426,unknown,united states,new york,
+1198,C0106,Chris Evans,chris.evans@email.com,,home & kitchen,2682,cash,canada,texas,
+1173,C0104,Chris Evans,chris.evans@example.com,,office supplies,1390,unknown,canada,texas,
+1138,C0045,Michael Brown,michael.brown@email.com,,fashion,1755,pay pal,united states,new york,
+1103,C0090,Sarah Johnson,unknown,,home & kitchen,357,pay pal,united states,new york,
+1141,C0078,John Doe,john.doe@email.com,,home & kitchen,2525,cash,united states,texas,
+1152,C0022,David Kim,david.kim@example.com,,fashion,1527,pay pal,united states,texas,
+1117,C0129,John Doe,unknown,,office supplies,2533,pay pal,united states,texas,
+1122,C0058,David Kim,david.kim@example.com,,fashion,,pay pal,united states,pennsylvania,
+1113,C0032,David Kim,david.kim@email.com,,office supplies,,debit card,united states,pennsylvania,
+1111,C0068,Maria Garcia,maria.garcia@mail.com,,home & kitchen,1287,cash,united states,pennsylvania,
+1172,C0034,Maria Garcia,maria.garcia@mail.com,,office supplies,,cash,united states,pennsylvania,
+1182,C0018,John Doe,john.doe@email.com,,home & kitchen,2102,cash,canada,pennsylvania,
+1056,C0126,Alex Lee,alex.lee@mail.com,,office supplies,822,cash,united states,pennsylvania,
+1083,C0107,David Kim,david.kim@email.com,,fashion,1838,cash,united states,pennsylvania,
+1049,C0146,David Kim,david.kim@mail.com,,home & kitchen,2072,credit card,united states,california,
+1175,C0118,John Doe,john.doe@email.com,,home & kitchen,,credit card,united states,california,
+1065,C0120,Jane Smith,jane.smith@email.com,,fashion,,credit card,united states,texas,
+1136,C0115,Emily Clark,emily.clark@email.com,,office supplies,1009,credit card,united states,texas,
+1157,C0126,Emily Clark,emily.clark@mail.com,,fashion,2359,credit card,canada,pennsylvania,
+1085,C0040,Jane Smith,jane.smith@example.com,,fashion,668,credit card,united states,pennsylvania,
+1130,C0057,Alex Lee,alex.lee@mail.com,,office supplies,2770,credit card,united states,pennsylvania,
+1114,C0079,Sarah Johnson,unknown,,home & kitchen,931,credit card,united states,pennsylvania,
