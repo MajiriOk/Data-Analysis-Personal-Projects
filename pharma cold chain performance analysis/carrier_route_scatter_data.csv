@@ -1,0 +1,500 @@
+"carrier_name","carrier_tier","route_id","distance_miles","total_shipments","excursion_shipments","excursion_rate_pct"
+"Coastal Regional Pharma Haul","Tier 2","R041",170,31,0,0.00
+"Southwind Regional Transport","Tier 2","R041",170,41,1,2.44
+"QuickLocal Medical Transport","Tier 3","R041",170,39,2,5.13
+"PharmaTrans Direct","Tier 1","R041",170,29,0,0.00
+"Palmetto Cold Freight","Tier 2","R041",170,26,1,3.85
+"NationalRx Carriers","Tier 1","R041",170,38,0,0.00
+"Metro Local Cold Courier","Tier 3","R041",170,34,2,5.88
+"MedFreeze Logistics","Tier 1","R041",170,31,0,0.00
+"Heartland Regional Rx","Tier 2","R041",170,42,0,0.00
+"ColdLine National Freight","Tier 1","R041",170,32,2,6.25
+"Southwind Regional Transport","Tier 2","R025",171,28,4,14.29
+"Coastal Regional Pharma Haul","Tier 2","R025",171,35,2,5.71
+"ColdLine National Freight","Tier 1","R025",171,36,1,2.78
+"Heartland Regional Rx","Tier 2","R025",171,42,0,0.00
+"MedFreeze Logistics","Tier 1","R025",171,27,0,0.00
+"Metro Local Cold Courier","Tier 3","R025",171,26,1,3.85
+"NationalRx Carriers","Tier 1","R025",171,33,1,3.03
+"Palmetto Cold Freight","Tier 2","R025",171,41,5,12.20
+"PharmaTrans Direct","Tier 1","R025",171,39,3,7.69
+"QuickLocal Medical Transport","Tier 3","R025",171,43,1,2.33
+"Palmetto Cold Freight","Tier 2","R029",208,39,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R029",208,32,1,3.13
+"Southwind Regional Transport","Tier 2","R029",208,35,1,2.86
+"QuickLocal Medical Transport","Tier 3","R029",208,36,3,8.33
+"PharmaTrans Direct","Tier 1","R029",208,43,0,0.00
+"ColdLine National Freight","Tier 1","R029",208,29,1,3.45
+"NationalRx Carriers","Tier 1","R029",208,34,1,2.94
+"Metro Local Cold Courier","Tier 3","R029",208,33,0,0.00
+"MedFreeze Logistics","Tier 1","R029",208,40,1,2.50
+"Heartland Regional Rx","Tier 2","R029",208,59,1,1.69
+"Southwind Regional Transport","Tier 2","R005",221,28,4,14.29
+"Coastal Regional Pharma Haul","Tier 2","R005",221,32,3,9.38
+"ColdLine National Freight","Tier 1","R005",221,41,0,0.00
+"Heartland Regional Rx","Tier 2","R005",221,38,3,7.89
+"MedFreeze Logistics","Tier 1","R005",221,39,1,2.56
+"Metro Local Cold Courier","Tier 3","R005",221,38,3,7.89
+"NationalRx Carriers","Tier 1","R005",221,49,1,2.04
+"Palmetto Cold Freight","Tier 2","R005",221,39,4,10.26
+"PharmaTrans Direct","Tier 1","R005",221,37,1,2.70
+"QuickLocal Medical Transport","Tier 3","R005",221,40,1,2.50
+"Coastal Regional Pharma Haul","Tier 2","R001",252,23,1,4.35
+"Southwind Regional Transport","Tier 2","R001",252,29,0,0.00
+"QuickLocal Medical Transport","Tier 3","R001",252,39,1,2.56
+"PharmaTrans Direct","Tier 1","R001",252,30,1,3.33
+"Palmetto Cold Freight","Tier 2","R001",252,42,4,9.52
+"NationalRx Carriers","Tier 1","R001",252,37,0,0.00
+"Metro Local Cold Courier","Tier 3","R001",252,38,1,2.63
+"MedFreeze Logistics","Tier 1","R001",252,32,0,0.00
+"Heartland Regional Rx","Tier 2","R001",252,35,0,0.00
+"ColdLine National Freight","Tier 1","R001",252,43,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R015",280,37,1,2.70
+"Southwind Regional Transport","Tier 2","R015",280,46,4,8.70
+"QuickLocal Medical Transport","Tier 3","R015",280,31,1,3.23
+"PharmaTrans Direct","Tier 1","R015",280,33,3,9.09
+"Palmetto Cold Freight","Tier 2","R015",280,41,4,9.76
+"NationalRx Carriers","Tier 1","R015",280,36,0,0.00
+"Metro Local Cold Courier","Tier 3","R015",280,41,2,4.88
+"MedFreeze Logistics","Tier 1","R015",280,37,0,0.00
+"Heartland Regional Rx","Tier 2","R015",280,23,0,0.00
+"ColdLine National Freight","Tier 1","R015",280,33,1,3.03
+"Southwind Regional Transport","Tier 2","R043",316,36,1,2.78
+"QuickLocal Medical Transport","Tier 3","R043",316,35,1,2.86
+"PharmaTrans Direct","Tier 1","R043",316,41,0,0.00
+"Palmetto Cold Freight","Tier 2","R043",316,34,3,8.82
+"NationalRx Carriers","Tier 1","R043",316,38,1,2.63
+"Coastal Regional Pharma Haul","Tier 2","R043",316,28,1,3.57
+"Metro Local Cold Courier","Tier 3","R043",316,36,0,0.00
+"MedFreeze Logistics","Tier 1","R043",316,35,1,2.86
+"Heartland Regional Rx","Tier 2","R043",316,36,0,0.00
+"ColdLine National Freight","Tier 1","R043",316,31,0,0.00
+"NationalRx Carriers","Tier 1","R033",339,35,1,2.86
+"Coastal Regional Pharma Haul","Tier 2","R033",339,34,0,0.00
+"ColdLine National Freight","Tier 1","R033",339,32,0,0.00
+"Heartland Regional Rx","Tier 2","R033",339,33,0,0.00
+"MedFreeze Logistics","Tier 1","R033",339,38,0,0.00
+"Metro Local Cold Courier","Tier 3","R033",339,40,1,2.50
+"Palmetto Cold Freight","Tier 2","R033",339,31,1,3.23
+"PharmaTrans Direct","Tier 1","R033",339,37,0,0.00
+"QuickLocal Medical Transport","Tier 3","R033",339,36,1,2.78
+"Southwind Regional Transport","Tier 2","R033",339,30,1,3.33
+"QuickLocal Medical Transport","Tier 3","R049",391,31,0,0.00
+"PharmaTrans Direct","Tier 1","R049",391,49,2,4.08
+"Palmetto Cold Freight","Tier 2","R049",391,39,5,12.82
+"NationalRx Carriers","Tier 1","R049",391,44,1,2.27
+"Metro Local Cold Courier","Tier 3","R049",391,36,0,0.00
+"MedFreeze Logistics","Tier 1","R049",391,36,1,2.78
+"Heartland Regional Rx","Tier 2","R049",391,36,0,0.00
+"ColdLine National Freight","Tier 1","R049",391,28,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R049",391,28,0,0.00
+"Southwind Regional Transport","Tier 2","R049",391,34,2,5.88
+"Metro Local Cold Courier","Tier 3","R003",420,36,1,2.78
+"Southwind Regional Transport","Tier 2","R003",420,44,5,11.36
+"QuickLocal Medical Transport","Tier 3","R003",420,35,1,2.86
+"PharmaTrans Direct","Tier 1","R003",420,42,0,0.00
+"Palmetto Cold Freight","Tier 2","R003",420,38,3,7.89
+"NationalRx Carriers","Tier 1","R003",420,30,1,3.33
+"MedFreeze Logistics","Tier 1","R003",420,34,0,0.00
+"Heartland Regional Rx","Tier 2","R003",420,40,3,7.50
+"ColdLine National Freight","Tier 1","R003",420,41,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R003",420,39,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R021",426,43,0,0.00
+"ColdLine National Freight","Tier 1","R021",426,35,0,0.00
+"Heartland Regional Rx","Tier 2","R021",426,27,0,0.00
+"MedFreeze Logistics","Tier 1","R021",426,28,1,3.57
+"Metro Local Cold Courier","Tier 3","R021",426,34,0,0.00
+"NationalRx Carriers","Tier 1","R021",426,33,0,0.00
+"Palmetto Cold Freight","Tier 2","R021",426,32,0,0.00
+"PharmaTrans Direct","Tier 1","R021",426,44,0,0.00
+"QuickLocal Medical Transport","Tier 3","R021",426,31,0,0.00
+"Southwind Regional Transport","Tier 2","R021",426,43,1,2.33
+"Southwind Regional Transport","Tier 2","R047",465,34,2,5.88
+"QuickLocal Medical Transport","Tier 3","R047",465,48,2,4.17
+"PharmaTrans Direct","Tier 1","R047",465,35,1,2.86
+"Palmetto Cold Freight","Tier 2","R047",465,28,3,10.71
+"NationalRx Carriers","Tier 1","R047",465,24,1,4.17
+"Metro Local Cold Courier","Tier 3","R047",465,34,2,5.88
+"MedFreeze Logistics","Tier 1","R047",465,38,1,2.63
+"Heartland Regional Rx","Tier 2","R047",465,38,2,5.26
+"ColdLine National Freight","Tier 1","R047",465,45,1,2.22
+"Coastal Regional Pharma Haul","Tier 2","R047",465,26,1,3.85
+"NationalRx Carriers","Tier 1","R011",480,29,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R011",480,35,0,0.00
+"ColdLine National Freight","Tier 1","R011",480,37,1,2.70
+"Heartland Regional Rx","Tier 2","R011",480,36,0,0.00
+"MedFreeze Logistics","Tier 1","R011",480,32,0,0.00
+"Metro Local Cold Courier","Tier 3","R011",480,38,0,0.00
+"Palmetto Cold Freight","Tier 2","R011",480,39,2,5.13
+"PharmaTrans Direct","Tier 1","R011",480,36,1,2.78
+"QuickLocal Medical Transport","Tier 3","R011",480,43,0,0.00
+"Southwind Regional Transport","Tier 2","R011",480,32,2,6.25
+"ColdLine National Freight","Tier 1","R017",493,33,1,3.03
+"Heartland Regional Rx","Tier 2","R017",493,41,2,4.88
+"MedFreeze Logistics","Tier 1","R017",493,40,2,5.00
+"Metro Local Cold Courier","Tier 3","R017",493,40,0,0.00
+"NationalRx Carriers","Tier 1","R017",493,45,1,2.22
+"Palmetto Cold Freight","Tier 2","R017",493,37,2,5.41
+"PharmaTrans Direct","Tier 1","R017",493,30,1,3.33
+"QuickLocal Medical Transport","Tier 3","R017",493,47,2,4.26
+"Southwind Regional Transport","Tier 2","R017",493,31,4,12.90
+"Coastal Regional Pharma Haul","Tier 2","R017",493,41,0,0.00
+"Southwind Regional Transport","Tier 2","R013",522,38,3,7.89
+"QuickLocal Medical Transport","Tier 3","R013",522,32,1,3.13
+"PharmaTrans Direct","Tier 1","R013",522,35,1,2.86
+"Palmetto Cold Freight","Tier 2","R013",522,26,1,3.85
+"NationalRx Carriers","Tier 1","R013",522,46,1,2.17
+"Metro Local Cold Courier","Tier 3","R013",522,33,1,3.03
+"MedFreeze Logistics","Tier 1","R013",522,32,1,3.13
+"Heartland Regional Rx","Tier 2","R013",522,34,0,0.00
+"ColdLine National Freight","Tier 1","R013",522,32,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R013",522,45,4,8.89
+"Coastal Regional Pharma Haul","Tier 2","R019",535,28,0,0.00
+"Southwind Regional Transport","Tier 2","R019",535,38,4,10.53
+"QuickLocal Medical Transport","Tier 3","R019",535,38,2,5.26
+"PharmaTrans Direct","Tier 1","R019",535,39,0,0.00
+"Palmetto Cold Freight","Tier 2","R019",535,33,3,9.09
+"NationalRx Carriers","Tier 1","R019",535,35,0,0.00
+"Metro Local Cold Courier","Tier 3","R019",535,29,2,6.90
+"MedFreeze Logistics","Tier 1","R019",535,41,0,0.00
+"Heartland Regional Rx","Tier 2","R019",535,40,0,0.00
+"ColdLine National Freight","Tier 1","R019",535,24,0,0.00
+"Southwind Regional Transport","Tier 2","R045",537,34,4,11.76
+"Coastal Regional Pharma Haul","Tier 2","R045",537,35,2,5.71
+"ColdLine National Freight","Tier 1","R045",537,47,0,0.00
+"Heartland Regional Rx","Tier 2","R045",537,38,2,5.26
+"MedFreeze Logistics","Tier 1","R045",537,45,1,2.22
+"Metro Local Cold Courier","Tier 3","R045",537,42,3,7.14
+"NationalRx Carriers","Tier 1","R045",537,37,0,0.00
+"Palmetto Cold Freight","Tier 2","R045",537,48,4,8.33
+"PharmaTrans Direct","Tier 1","R045",537,42,1,2.38
+"QuickLocal Medical Transport","Tier 3","R045",537,36,0,0.00
+"Metro Local Cold Courier","Tier 3","R023",609,29,2,6.90
+"Coastal Regional Pharma Haul","Tier 2","R023",609,41,1,2.44
+"ColdLine National Freight","Tier 1","R023",609,35,0,0.00
+"Heartland Regional Rx","Tier 2","R023",609,36,0,0.00
+"MedFreeze Logistics","Tier 1","R023",609,38,0,0.00
+"NationalRx Carriers","Tier 1","R023",609,32,0,0.00
+"Palmetto Cold Freight","Tier 2","R023",609,31,1,3.23
+"PharmaTrans Direct","Tier 1","R023",609,33,0,0.00
+"QuickLocal Medical Transport","Tier 3","R023",609,45,0,0.00
+"Southwind Regional Transport","Tier 2","R023",609,31,5,16.13
+"Southwind Regional Transport","Tier 2","R009",616,41,1,2.44
+"Coastal Regional Pharma Haul","Tier 2","R009",616,34,0,0.00
+"ColdLine National Freight","Tier 1","R009",616,44,0,0.00
+"Heartland Regional Rx","Tier 2","R009",616,35,1,2.86
+"MedFreeze Logistics","Tier 1","R009",616,35,0,0.00
+"Metro Local Cold Courier","Tier 3","R009",616,39,1,2.56
+"NationalRx Carriers","Tier 1","R009",616,37,0,0.00
+"Palmetto Cold Freight","Tier 2","R009",616,40,3,7.50
+"PharmaTrans Direct","Tier 1","R009",616,37,1,2.70
+"QuickLocal Medical Transport","Tier 3","R009",616,34,0,0.00
+"QuickLocal Medical Transport","Tier 3","R031",625,26,0,0.00
+"Southwind Regional Transport","Tier 2","R031",625,48,4,8.33
+"Coastal Regional Pharma Haul","Tier 2","R031",625,34,0,0.00
+"ColdLine National Freight","Tier 1","R031",625,44,0,0.00
+"Heartland Regional Rx","Tier 2","R031",625,35,0,0.00
+"MedFreeze Logistics","Tier 1","R031",625,33,0,0.00
+"Metro Local Cold Courier","Tier 3","R031",625,23,1,4.35
+"NationalRx Carriers","Tier 1","R031",625,41,0,0.00
+"Palmetto Cold Freight","Tier 2","R031",625,35,0,0.00
+"PharmaTrans Direct","Tier 1","R031",625,35,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R039",634,40,2,5.00
+"PharmaTrans Direct","Tier 1","R039",634,36,0,0.00
+"Palmetto Cold Freight","Tier 2","R039",634,35,5,14.29
+"NationalRx Carriers","Tier 1","R039",634,41,0,0.00
+"Metro Local Cold Courier","Tier 3","R039",634,40,0,0.00
+"MedFreeze Logistics","Tier 1","R039",634,29,0,0.00
+"Heartland Regional Rx","Tier 2","R039",634,29,0,0.00
+"ColdLine National Freight","Tier 1","R039",634,35,0,0.00
+"Southwind Regional Transport","Tier 2","R039",634,32,1,3.13
+"QuickLocal Medical Transport","Tier 3","R039",634,31,1,3.23
+"Southwind Regional Transport","Tier 2","R037",654,30,4,13.33
+"QuickLocal Medical Transport","Tier 3","R037",654,29,4,13.79
+"PharmaTrans Direct","Tier 1","R037",654,36,1,2.78
+"Palmetto Cold Freight","Tier 2","R037",654,27,1,3.70
+"NationalRx Carriers","Tier 1","R037",654,37,0,0.00
+"Metro Local Cold Courier","Tier 3","R037",654,29,2,6.90
+"MedFreeze Logistics","Tier 1","R037",654,37,0,0.00
+"Heartland Regional Rx","Tier 2","R037",654,42,0,0.00
+"ColdLine National Freight","Tier 1","R037",654,32,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R037",654,33,1,3.03
+"QuickLocal Medical Transport","Tier 3","R027",710,39,1,2.56
+"Coastal Regional Pharma Haul","Tier 2","R027",710,41,1,2.44
+"ColdLine National Freight","Tier 1","R027",710,37,2,5.41
+"Heartland Regional Rx","Tier 2","R027",710,34,0,0.00
+"MedFreeze Logistics","Tier 1","R027",710,35,0,0.00
+"Metro Local Cold Courier","Tier 3","R027",710,42,2,4.76
+"NationalRx Carriers","Tier 1","R027",710,36,1,2.78
+"Palmetto Cold Freight","Tier 2","R027",710,34,3,8.82
+"PharmaTrans Direct","Tier 1","R027",710,52,0,0.00
+"Southwind Regional Transport","Tier 2","R027",710,32,1,3.13
+"Coastal Regional Pharma Haul","Tier 2","R035",712,32,2,6.25
+"PharmaTrans Direct","Tier 1","R035",712,40,1,2.50
+"Palmetto Cold Freight","Tier 2","R035",712,49,1,2.04
+"NationalRx Carriers","Tier 1","R035",712,35,1,2.86
+"Metro Local Cold Courier","Tier 3","R035",712,28,1,3.57
+"MedFreeze Logistics","Tier 1","R035",712,31,0,0.00
+"Heartland Regional Rx","Tier 2","R035",712,26,1,3.85
+"ColdLine National Freight","Tier 1","R035",712,34,3,8.82
+"QuickLocal Medical Transport","Tier 3","R035",712,31,0,0.00
+"Southwind Regional Transport","Tier 2","R035",712,44,6,13.64
+"Southwind Regional Transport","Tier 2","R007",764,38,3,7.89
+"QuickLocal Medical Transport","Tier 3","R007",764,41,2,4.88
+"PharmaTrans Direct","Tier 1","R007",764,38,1,2.63
+"Palmetto Cold Freight","Tier 2","R007",764,39,3,7.69
+"NationalRx Carriers","Tier 1","R007",764,43,3,6.98
+"Metro Local Cold Courier","Tier 3","R007",764,31,2,6.45
+"MedFreeze Logistics","Tier 1","R007",764,41,0,0.00
+"Heartland Regional Rx","Tier 2","R007",764,46,2,4.35
+"ColdLine National Freight","Tier 1","R007",764,31,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R007",764,37,2,5.41
+"Coastal Regional Pharma Haul","Tier 2","R048",813,26,1,3.85
+"ColdLine National Freight","Tier 1","R048",813,19,0,0.00
+"Heartland Regional Rx","Tier 2","R048",813,20,3,15.00
+"MedFreeze Logistics","Tier 1","R048",813,18,1,5.56
+"Metro Local Cold Courier","Tier 3","R048",813,25,4,16.00
+"NationalRx Carriers","Tier 1","R048",813,15,0,0.00
+"Palmetto Cold Freight","Tier 2","R048",813,68,11,16.18
+"PharmaTrans Direct","Tier 1","R048",813,22,1,4.55
+"QuickLocal Medical Transport","Tier 3","R048",813,28,0,0.00
+"Southwind Regional Transport","Tier 2","R048",813,92,16,17.39
+"Southwind Regional Transport","Tier 2","R012",887,44,4,9.09
+"QuickLocal Medical Transport","Tier 3","R012",887,24,0,0.00
+"PharmaTrans Direct","Tier 1","R012",887,38,2,5.26
+"Palmetto Cold Freight","Tier 2","R012",887,25,2,8.00
+"NationalRx Carriers","Tier 1","R012",887,41,0,0.00
+"Metro Local Cold Courier","Tier 3","R012",887,38,0,0.00
+"MedFreeze Logistics","Tier 1","R012",887,40,2,5.00
+"Heartland Regional Rx","Tier 2","R012",887,43,2,4.65
+"Coastal Regional Pharma Haul","Tier 2","R012",887,44,0,0.00
+"ColdLine National Freight","Tier 1","R012",887,37,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R008",921,27,3,11.11
+"ColdLine National Freight","Tier 1","R008",921,28,3,10.71
+"Heartland Regional Rx","Tier 2","R008",921,23,0,0.00
+"Southwind Regional Transport","Tier 2","R008",921,78,10,12.82
+"MedFreeze Logistics","Tier 1","R008",921,19,2,10.53
+"Metro Local Cold Courier","Tier 3","R008",921,21,3,14.29
+"NationalRx Carriers","Tier 1","R008",921,23,5,21.74
+"Palmetto Cold Freight","Tier 2","R008",921,82,10,12.20
+"PharmaTrans Direct","Tier 1","R008",921,23,0,0.00
+"QuickLocal Medical Transport","Tier 3","R008",921,28,1,3.57
+"Coastal Regional Pharma Haul","Tier 2","R026",1052,26,3,11.54
+"ColdLine National Freight","Tier 1","R026",1052,19,0,0.00
+"Heartland Regional Rx","Tier 2","R026",1052,19,1,5.26
+"MedFreeze Logistics","Tier 1","R026",1052,28,2,7.14
+"Metro Local Cold Courier","Tier 3","R026",1052,22,2,9.09
+"NationalRx Carriers","Tier 1","R026",1052,21,1,4.76
+"Palmetto Cold Freight","Tier 2","R026",1052,84,15,17.86
+"PharmaTrans Direct","Tier 1","R026",1052,30,0,0.00
+"QuickLocal Medical Transport","Tier 3","R026",1052,20,0,0.00
+"Southwind Regional Transport","Tier 2","R026",1052,83,13,15.66
+"Coastal Regional Pharma Haul","Tier 2","R028",1274,26,2,7.69
+"Southwind Regional Transport","Tier 2","R028",1274,77,10,12.99
+"QuickLocal Medical Transport","Tier 3","R028",1274,25,1,4.00
+"PharmaTrans Direct","Tier 1","R028",1274,23,0,0.00
+"Palmetto Cold Freight","Tier 2","R028",1274,94,25,26.60
+"NationalRx Carriers","Tier 1","R028",1274,16,1,6.25
+"Metro Local Cold Courier","Tier 3","R028",1274,19,0,0.00
+"MedFreeze Logistics","Tier 1","R028",1274,21,1,4.76
+"Heartland Regional Rx","Tier 2","R028",1274,31,1,3.23
+"ColdLine National Freight","Tier 1","R028",1274,20,0,0.00
+"ColdLine National Freight","Tier 1","R030",1310,39,1,2.56
+"Heartland Regional Rx","Tier 2","R030",1310,40,3,7.50
+"MedFreeze Logistics","Tier 1","R030",1310,44,1,2.27
+"Metro Local Cold Courier","Tier 3","R030",1310,35,2,5.71
+"NationalRx Carriers","Tier 1","R030",1310,33,0,0.00
+"Palmetto Cold Freight","Tier 2","R030",1310,30,2,6.67
+"PharmaTrans Direct","Tier 1","R030",1310,35,0,0.00
+"QuickLocal Medical Transport","Tier 3","R030",1310,39,1,2.56
+"Southwind Regional Transport","Tier 2","R030",1310,39,5,12.82
+"Coastal Regional Pharma Haul","Tier 2","R030",1310,37,1,2.70
+"QuickLocal Medical Transport","Tier 3","R046",1400,27,1,3.70
+"Coastal Regional Pharma Haul","Tier 2","R046",1400,28,1,3.57
+"ColdLine National Freight","Tier 1","R046",1400,20,3,15.00
+"Heartland Regional Rx","Tier 2","R046",1400,22,2,9.09
+"MedFreeze Logistics","Tier 1","R046",1400,25,0,0.00
+"Metro Local Cold Courier","Tier 3","R046",1400,22,0,0.00
+"NationalRx Carriers","Tier 1","R046",1400,15,0,0.00
+"Palmetto Cold Freight","Tier 2","R046",1400,86,15,17.44
+"PharmaTrans Direct","Tier 1","R046",1400,23,1,4.35
+"Southwind Regional Transport","Tier 2","R046",1400,90,16,17.78
+"QuickLocal Medical Transport","Tier 3","R040",1446,32,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R040",1446,30,0,0.00
+"ColdLine National Freight","Tier 1","R040",1446,37,2,5.41
+"Heartland Regional Rx","Tier 2","R040",1446,36,2,5.56
+"MedFreeze Logistics","Tier 1","R040",1446,27,2,7.41
+"Metro Local Cold Courier","Tier 3","R040",1446,44,0,0.00
+"NationalRx Carriers","Tier 1","R040",1446,39,0,0.00
+"Palmetto Cold Freight","Tier 2","R040",1446,40,3,7.50
+"PharmaTrans Direct","Tier 1","R040",1446,23,0,0.00
+"Southwind Regional Transport","Tier 2","R040",1446,34,2,5.88
+"ColdLine National Freight","Tier 1","R032",1499,34,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R032",1499,36,2,5.56
+"Heartland Regional Rx","Tier 2","R032",1499,40,1,2.50
+"MedFreeze Logistics","Tier 1","R032",1499,41,0,0.00
+"Metro Local Cold Courier","Tier 3","R032",1499,44,0,0.00
+"NationalRx Carriers","Tier 1","R032",1499,36,2,5.56
+"Palmetto Cold Freight","Tier 2","R032",1499,26,3,11.54
+"PharmaTrans Direct","Tier 1","R032",1499,40,1,2.50
+"QuickLocal Medical Transport","Tier 3","R032",1499,27,0,0.00
+"Southwind Regional Transport","Tier 2","R032",1499,31,2,6.45
+"Southwind Regional Transport","Tier 2","R050",1576,43,3,6.98
+"ColdLine National Freight","Tier 1","R050",1576,37,1,2.70
+"Heartland Regional Rx","Tier 2","R050",1576,33,1,3.03
+"MedFreeze Logistics","Tier 1","R050",1576,33,1,3.03
+"Metro Local Cold Courier","Tier 3","R050",1576,53,1,1.89
+"NationalRx Carriers","Tier 1","R050",1576,30,0,0.00
+"Palmetto Cold Freight","Tier 2","R050",1576,28,3,10.71
+"PharmaTrans Direct","Tier 1","R050",1576,42,1,2.38
+"QuickLocal Medical Transport","Tier 3","R050",1576,30,2,6.67
+"Coastal Regional Pharma Haul","Tier 2","R050",1576,31,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R018",1605,24,1,4.17
+"Southwind Regional Transport","Tier 2","R018",1605,102,6,5.88
+"QuickLocal Medical Transport","Tier 3","R018",1605,26,1,3.85
+"PharmaTrans Direct","Tier 1","R018",1605,20,2,10.00
+"Palmetto Cold Freight","Tier 2","R018",1605,73,13,17.81
+"NationalRx Carriers","Tier 1","R018",1605,25,1,4.00
+"Metro Local Cold Courier","Tier 3","R018",1605,21,2,9.52
+"MedFreeze Logistics","Tier 1","R018",1605,15,0,0.00
+"Heartland Regional Rx","Tier 2","R018",1605,27,3,11.11
+"ColdLine National Freight","Tier 1","R018",1605,23,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R042",1640,44,1,2.27
+"Southwind Regional Transport","Tier 2","R042",1640,36,2,5.56
+"QuickLocal Medical Transport","Tier 3","R042",1640,45,0,0.00
+"PharmaTrans Direct","Tier 1","R042",1640,32,1,3.13
+"Palmetto Cold Freight","Tier 2","R042",1640,42,2,4.76
+"NationalRx Carriers","Tier 1","R042",1640,34,1,2.94
+"Metro Local Cold Courier","Tier 3","R042",1640,30,0,0.00
+"MedFreeze Logistics","Tier 1","R042",1640,32,0,0.00
+"Heartland Regional Rx","Tier 2","R042",1640,47,0,0.00
+"ColdLine National Freight","Tier 1","R042",1640,38,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R002",1660,43,2,4.65
+"QuickLocal Medical Transport","Tier 3","R002",1660,43,1,2.33
+"PharmaTrans Direct","Tier 1","R002",1660,42,0,0.00
+"Palmetto Cold Freight","Tier 2","R002",1660,35,1,2.86
+"NationalRx Carriers","Tier 1","R002",1660,31,0,0.00
+"Metro Local Cold Courier","Tier 3","R002",1660,25,0,0.00
+"MedFreeze Logistics","Tier 1","R002",1660,39,0,0.00
+"Heartland Regional Rx","Tier 2","R002",1660,40,1,2.50
+"ColdLine National Freight","Tier 1","R002",1660,29,0,0.00
+"Southwind Regional Transport","Tier 2","R002",1660,47,5,10.64
+"Southwind Regional Transport","Tier 2","R034",1757,32,2,6.25
+"PharmaTrans Direct","Tier 1","R034",1757,37,1,2.70
+"Palmetto Cold Freight","Tier 2","R034",1757,35,6,17.14
+"NationalRx Carriers","Tier 1","R034",1757,32,1,3.13
+"Metro Local Cold Courier","Tier 3","R034",1757,39,0,0.00
+"MedFreeze Logistics","Tier 1","R034",1757,34,0,0.00
+"Heartland Regional Rx","Tier 2","R034",1757,30,2,6.67
+"ColdLine National Freight","Tier 1","R034",1757,34,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R034",1757,49,2,4.08
+"QuickLocal Medical Transport","Tier 3","R034",1757,33,1,3.03
+"Southwind Regional Transport","Tier 2","R006",1844,87,17,19.54
+"ColdLine National Freight","Tier 1","R006",1844,22,1,4.55
+"Heartland Regional Rx","Tier 2","R006",1844,21,2,9.52
+"MedFreeze Logistics","Tier 1","R006",1844,30,2,6.67
+"Metro Local Cold Courier","Tier 3","R006",1844,24,1,4.17
+"NationalRx Carriers","Tier 1","R006",1844,17,2,11.76
+"Palmetto Cold Freight","Tier 2","R006",1844,101,17,16.83
+"PharmaTrans Direct","Tier 1","R006",1844,34,1,2.94
+"QuickLocal Medical Transport","Tier 3","R006",1844,13,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R006",1844,17,2,11.76
+"QuickLocal Medical Transport","Tier 3","R014",1923,34,0,0.00
+"Southwind Regional Transport","Tier 2","R014",1923,44,3,6.82
+"PharmaTrans Direct","Tier 1","R014",1923,34,0,0.00
+"Palmetto Cold Freight","Tier 2","R014",1923,35,2,5.71
+"NationalRx Carriers","Tier 1","R014",1923,40,2,5.00
+"Metro Local Cold Courier","Tier 3","R014",1923,30,0,0.00
+"MedFreeze Logistics","Tier 1","R014",1923,49,1,2.04
+"Heartland Regional Rx","Tier 2","R014",1923,37,2,5.41
+"ColdLine National Freight","Tier 1","R014",1923,28,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R014",1923,38,0,0.00
+"Southwind Regional Transport","Tier 2","R004",1930,40,4,10.00
+"Coastal Regional Pharma Haul","Tier 2","R004",1930,32,1,3.13
+"QuickLocal Medical Transport","Tier 3","R004",1930,38,2,5.26
+"PharmaTrans Direct","Tier 1","R004",1930,28,0,0.00
+"Palmetto Cold Freight","Tier 2","R004",1930,32,0,0.00
+"NationalRx Carriers","Tier 1","R004",1930,35,1,2.86
+"Metro Local Cold Courier","Tier 3","R004",1930,35,1,2.86
+"MedFreeze Logistics","Tier 1","R004",1930,29,1,3.45
+"Heartland Regional Rx","Tier 2","R004",1930,41,0,0.00
+"ColdLine National Freight","Tier 1","R004",1930,31,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R038",1954,33,0,0.00
+"ColdLine National Freight","Tier 1","R038",1954,26,1,3.85
+"Southwind Regional Transport","Tier 2","R038",1954,91,11,12.09
+"QuickLocal Medical Transport","Tier 3","R038",1954,18,0,0.00
+"PharmaTrans Direct","Tier 1","R038",1954,16,0,0.00
+"Palmetto Cold Freight","Tier 2","R038",1954,88,6,6.82
+"NationalRx Carriers","Tier 1","R038",1954,18,0,0.00
+"Metro Local Cold Courier","Tier 3","R038",1954,24,3,12.50
+"MedFreeze Logistics","Tier 1","R038",1954,20,0,0.00
+"Heartland Regional Rx","Tier 2","R038",1954,27,2,7.41
+"Coastal Regional Pharma Haul","Tier 2","R022",1984,39,1,2.56
+"Southwind Regional Transport","Tier 2","R022",1984,54,5,9.26
+"PharmaTrans Direct","Tier 1","R022",1984,44,1,2.27
+"Palmetto Cold Freight","Tier 2","R022",1984,43,2,4.65
+"NationalRx Carriers","Tier 1","R022",1984,37,0,0.00
+"Metro Local Cold Courier","Tier 3","R022",1984,43,1,2.33
+"MedFreeze Logistics","Tier 1","R022",1984,37,1,2.70
+"Heartland Regional Rx","Tier 2","R022",1984,38,0,0.00
+"ColdLine National Freight","Tier 1","R022",1984,39,1,2.56
+"QuickLocal Medical Transport","Tier 3","R022",1984,43,1,2.33
+"Coastal Regional Pharma Haul","Tier 2","R020",2015,35,1,2.86
+"Southwind Regional Transport","Tier 2","R020",2015,34,5,14.71
+"QuickLocal Medical Transport","Tier 3","R020",2015,31,3,9.68
+"PharmaTrans Direct","Tier 1","R020",2015,32,0,0.00
+"Palmetto Cold Freight","Tier 2","R020",2015,44,3,6.82
+"NationalRx Carriers","Tier 1","R020",2015,39,0,0.00
+"Metro Local Cold Courier","Tier 3","R020",2015,38,3,7.89
+"MedFreeze Logistics","Tier 1","R020",2015,43,4,9.30
+"Heartland Regional Rx","Tier 2","R020",2015,32,2,6.25
+"ColdLine National Freight","Tier 1","R020",2015,34,0,0.00
+"NationalRx Carriers","Tier 1","R010",2038,32,0,0.00
+"Southwind Regional Transport","Tier 2","R010",2038,42,2,4.76
+"QuickLocal Medical Transport","Tier 3","R010",2038,26,1,3.85
+"PharmaTrans Direct","Tier 1","R010",2038,32,0,0.00
+"Palmetto Cold Freight","Tier 2","R010",2038,38,4,10.53
+"Metro Local Cold Courier","Tier 3","R010",2038,35,0,0.00
+"MedFreeze Logistics","Tier 1","R010",2038,34,0,0.00
+"Heartland Regional Rx","Tier 2","R010",2038,32,0,0.00
+"ColdLine National Freight","Tier 1","R010",2038,40,2,5.00
+"Coastal Regional Pharma Haul","Tier 2","R010",2038,30,2,6.67
+"Southwind Regional Transport","Tier 2","R036",2067,93,12,12.90
+"QuickLocal Medical Transport","Tier 3","R036",2067,18,1,5.56
+"PharmaTrans Direct","Tier 1","R036",2067,17,1,5.88
+"Palmetto Cold Freight","Tier 2","R036",2067,95,13,13.68
+"NationalRx Carriers","Tier 1","R036",2067,26,0,0.00
+"Metro Local Cold Courier","Tier 3","R036",2067,40,3,7.50
+"MedFreeze Logistics","Tier 1","R036",2067,24,1,4.17
+"Heartland Regional Rx","Tier 2","R036",2067,19,1,5.26
+"ColdLine National Freight","Tier 1","R036",2067,26,4,15.38
+"Coastal Regional Pharma Haul","Tier 2","R036",2067,36,0,0.00
+"QuickLocal Medical Transport","Tier 3","R044",2097,35,0,0.00
+"PharmaTrans Direct","Tier 1","R044",2097,24,0,0.00
+"Palmetto Cold Freight","Tier 2","R044",2097,28,3,10.71
+"NationalRx Carriers","Tier 1","R044",2097,36,1,2.78
+"Metro Local Cold Courier","Tier 3","R044",2097,34,1,2.94
+"MedFreeze Logistics","Tier 1","R044",2097,37,2,5.41
+"Heartland Regional Rx","Tier 2","R044",2097,37,3,8.11
+"ColdLine National Freight","Tier 1","R044",2097,32,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R044",2097,30,0,0.00
+"Southwind Regional Transport","Tier 2","R044",2097,37,3,8.11
+"PharmaTrans Direct","Tier 1","R016",2132,14,0,0.00
+"Palmetto Cold Freight","Tier 2","R016",2132,75,14,18.67
+"NationalRx Carriers","Tier 1","R016",2132,15,0,0.00
+"Metro Local Cold Courier","Tier 3","R016",2132,19,0,0.00
+"MedFreeze Logistics","Tier 1","R016",2132,27,1,3.70
+"Heartland Regional Rx","Tier 2","R016",2132,23,2,8.70
+"ColdLine National Freight","Tier 1","R016",2132,16,0,0.00
+"Coastal Regional Pharma Haul","Tier 2","R016",2132,18,4,22.22
+"Southwind Regional Transport","Tier 2","R016",2132,82,10,12.20
+"Southwind Regional Transport","Tier 2","R024",2137,45,1,2.22
+"Coastal Regional Pharma Haul","Tier 2","R024",2137,41,1,2.44
+"QuickLocal Medical Transport","Tier 3","R024",2137,38,1,2.63
+"PharmaTrans Direct","Tier 1","R024",2137,32,0,0.00
+"Palmetto Cold Freight","Tier 2","R024",2137,42,3,7.14
+"NationalRx Carriers","Tier 1","R024",2137,30,1,3.33
+"Metro Local Cold Courier","Tier 3","R024",2137,46,2,4.35
+"MedFreeze Logistics","Tier 1","R024",2137,37,0,0.00
+"Heartland Regional Rx","Tier 2","R024",2137,49,2,4.08
+"ColdLine National Freight","Tier 1","R024",2137,29,2,6.90

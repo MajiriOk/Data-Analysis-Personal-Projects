@@ -1,0 +1,11 @@
+carrier_name,carrier_tier,total_shipments,excursion_shipments,excursion_rate_pct
+Palmetto Cold Freight,Tier 2,2272,240,10.56
+Southwind Regional Transport,Tier 2,2374,237,9.98
+Metro Local Cold Courier,Tier 3,1675,59,3.52
+Coastal Regional Pharma Haul,Tier 2,1684,56,3.33
+Heartland Regional Rx,Tier 2,1728,55,3.18
+QuickLocal Medical Transport,Tier 3,1646,47,2.86
+MedFreeze Logistics,Tier 1,1667,35,2.1
+ColdLine National Freight,Tier 1,1628,34,2.09
+NationalRx Carriers,Tier 1,1641,34,2.07
+PharmaTrans Direct,Tier 1,1685,32,1.9

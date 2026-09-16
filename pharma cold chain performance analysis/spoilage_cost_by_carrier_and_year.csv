@@ -1,0 +1,31 @@
+carrier_name,year,excursion_count,total_spoilage_cost,running_spoilage_total
+Coastal Regional Pharma Haul,2022,1,14790,14790
+Coastal Regional Pharma Haul,2023,13,5367277.75,5382067.75
+Coastal Regional Pharma Haul,2024,42,22647681,28029748.75
+ColdLine National Freight,2022,2,38833.75,38833.75
+ColdLine National Freight,2023,6,3044715,3083548.75
+ColdLine National Freight,2024,26,16223550.25,19307099
+Heartland Regional Rx,2022,4,4204416,4204416
+Heartland Regional Rx,2023,12,9368064,13572480
+Heartland Regional Rx,2024,39,25369226.25,38941706.25
+MedFreeze Logistics,2022,2,97443,97443
+MedFreeze Logistics,2023,6,999528,1096971
+MedFreeze Logistics,2024,27,18519272.25,19616243.25
+Metro Local Cold Courier,2022,6,6867062,6867062
+Metro Local Cold Courier,2023,13,5871393,12738455
+Metro Local Cold Courier,2024,40,13775789.75,26514244.75
+NationalRx Carriers,2022,2,787800,787800
+NationalRx Carriers,2023,7,2828314,3616114
+NationalRx Carriers,2024,25,15418645.25,19034759.25
+Palmetto Cold Freight,2022,17,5727142.25,5727142.25
+Palmetto Cold Freight,2023,58,28761718.25,34488860.5
+Palmetto Cold Freight,2024,165,86662047.25,121150907.8
+PharmaTrans Direct,2022,3,1793260,1793260
+PharmaTrans Direct,2023,8,1508027.75,3301287.75
+PharmaTrans Direct,2024,21,9622462.25,12923750
+QuickLocal Medical Transport,2022,3,1803420,1803420
+QuickLocal Medical Transport,2023,13,5637466.5,7440886.5
+QuickLocal Medical Transport,2024,31,16301946,23742832.5
+Southwind Regional Transport,2022,16,16736561.25,16736561.25
+Southwind Regional Transport,2023,50,17775945.5,34512506.75
+Southwind Regional Transport,2024,171,89898822.5,124411329.3
