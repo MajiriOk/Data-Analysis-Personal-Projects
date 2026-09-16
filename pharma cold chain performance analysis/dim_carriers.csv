@@ -1,0 +1,11 @@
+carrier_id,carrier_name,carrier_tier,primary_region
+C01,ColdLine National Freight,Tier 1,Northeast
+C02,PharmaTrans Direct,Tier 1,West
+C03,MedFreeze Logistics,Tier 1,Midwest
+C04,NationalRx Carriers,Tier 1,Southeast
+C05,Southwind Regional Transport,Tier 2,Southwest
+C06,Palmetto Cold Freight,Tier 2,Southeast
+C07,Heartland Regional Rx,Tier 2,Midwest
+C08,Coastal Regional Pharma Haul,Tier 2,Northeast
+C09,Metro Local Cold Courier,Tier 3,West
+C10,QuickLocal Medical Transport,Tier 3,Southeast

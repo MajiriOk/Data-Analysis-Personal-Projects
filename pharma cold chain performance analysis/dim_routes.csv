@@ -1,0 +1,51 @@
+route_id,origin_dc,destination_region,distance_miles,standard_transit_days
+R001,Newark DC,Northeast,252,1
+R002,Newark DC,Northeast,1660,4
+R003,Newark DC,Midwest,420,1
+R004,Newark DC,Midwest,1930,4
+R005,Newark DC,Southeast,221,1
+R006,Newark DC,Southeast,1844,4
+R007,Newark DC,Southwest,764,2
+R008,Newark DC,Southwest,921,2
+R009,Newark DC,West,616,1
+R010,Newark DC,West,2038,5
+R011,Chicago DC,Northeast,480,1
+R012,Chicago DC,Northeast,887,2
+R013,Chicago DC,Midwest,522,1
+R014,Chicago DC,Midwest,1923,4
+R015,Chicago DC,Southeast,280,1
+R016,Chicago DC,Southeast,2132,5
+R017,Chicago DC,Southwest,493,1
+R018,Chicago DC,Southwest,1605,4
+R019,Chicago DC,West,535,1
+R020,Chicago DC,West,2015,4
+R021,Atlanta DC,Northeast,426,1
+R022,Atlanta DC,Northeast,1984,4
+R023,Atlanta DC,Midwest,609,1
+R024,Atlanta DC,Midwest,2137,5
+R025,Atlanta DC,Southeast,171,1
+R026,Atlanta DC,Southeast,1052,2
+R027,Atlanta DC,Southwest,710,2
+R028,Atlanta DC,Southwest,1274,3
+R029,Atlanta DC,West,208,1
+R030,Atlanta DC,West,1310,3
+R031,Dallas DC,Northeast,625,1
+R032,Dallas DC,Northeast,1499,3
+R033,Dallas DC,Midwest,339,1
+R034,Dallas DC,Midwest,1757,4
+R035,Dallas DC,Southeast,712,2
+R036,Dallas DC,Southeast,2067,5
+R037,Dallas DC,Southwest,654,1
+R038,Dallas DC,Southwest,1954,4
+R039,Dallas DC,West,634,1
+R040,Dallas DC,West,1446,3
+R041,Los Angeles DC,Northeast,170,1
+R042,Los Angeles DC,Northeast,1640,4
+R043,Los Angeles DC,Midwest,316,1
+R044,Los Angeles DC,Midwest,2097,5
+R045,Los Angeles DC,Southeast,537,1
+R046,Los Angeles DC,Southeast,1400,3
+R047,Los Angeles DC,Southwest,465,1
+R048,Los Angeles DC,Southwest,813,2
+R049,Los Angeles DC,West,391,1
+R050,Los Angeles DC,West,1576,4

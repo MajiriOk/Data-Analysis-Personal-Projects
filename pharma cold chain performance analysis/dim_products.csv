@@ -1,0 +1,21 @@
+product_id,product_name,drug_category,required_temp_min_c,required_temp_max_c,unit_value_usd
+P001,VaxImmune HPV Vaccine,vaccine,2,8,145
+P002,PediShield MMR Vaccine,vaccine,2,8,98.5
+P003,FluGuard Seasonal Vaccine,vaccine,2,8,42
+P004,HepaBlock Hepatitis B Vaccine,vaccine,2,8,76.25
+P005,MeningoPrime Vaccine,vaccine,2,8,210
+P006,OncoBio Monoclonal Antibody,biologic,2,8,4200
+P007,RheumaCare Biologic Infusion,biologic,2,8,3150
+P008,Insulara Rapid Insulin,biologic,2,8,285
+P009,Insulara Long-Acting Insulin,biologic,2,8,310
+P010,NeuroBio Growth Factor,biologic,2,8,5600
+P011,HemoFactor VIII Concentrate,biologic,2,8,2890
+P012,DermaBio Psoriasis Injection,biologic,2,8,3980
+P013,OncoSpecialty Chemo Adjunct,specialty,2,8,1875
+P014,RareGen Enzyme Replacement,specialty,2,8,6200
+P015,ImmunoSpecialty Infusion,specialty,2,8,2650
+P016,CardioSpecialty Biologic,specialty,2,8,3320
+P017,StandardAntibiotic Injectable,standard_refrigerated,2,8,18.5
+P018,StandardHormone Therapy,standard_refrigerated,2,8,34
+P019,StandardAllergy Serum,standard_refrigerated,2,8,22.75
+P020,StandardEyeCare Refrigerated,standard_refrigerated,2,8,15
